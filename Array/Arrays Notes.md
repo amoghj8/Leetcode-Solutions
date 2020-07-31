@@ -7,3 +7,4 @@
  - form patterns (1351)
  - try incorporating binary search if already sorted
  - exchange in cpp
+ - parition in cpp
