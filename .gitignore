@@ -1,0 +1,6 @@
+# ignore exe
+*.exe
+# ignore test cpp
+*test.cpp
+# ignore .json
+*.json
